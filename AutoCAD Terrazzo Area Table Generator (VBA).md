@@ -66,7 +66,7 @@ Ideal for **quantity surveyors** and **CAD technicians** doing flooring area tak
 
 | File                        | Description                            |
 |-----------------------------|----------------------------------------|
-| `GenerateTerrazzoArea.bas` | VBA Module containing the macro        |
+| [`GenerateTerrazzoArea.bas`](GenerateTerrazzoAreaTable.bas) | VBA Module containing the macro        |
 | `README.md`                 | Documentation                         |
 
 ---
